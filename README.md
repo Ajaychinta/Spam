@@ -11,7 +11,7 @@ A python-based input classifier for class assignment that uses random forest alg
 
 - [@Karen "Benny" Berba](https://github.com/kberba)
 
-- [@syam-jason](https://github.com/syam-jason)
+- [@sAjayChinta](https://github.com/Ajaychinta)
 
 - [@SemerdjianMary](https://github.com/SemerdjianMary)
 
